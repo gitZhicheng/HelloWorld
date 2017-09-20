@@ -7,7 +7,6 @@
 int main()
 {
 	std::cout << "Hello World!" << std::endl;
-	_sleep(50);
     return 0;
 }
 
